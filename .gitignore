@@ -50,8 +50,27 @@ Generated\ Files/
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
+!todoAppTests/
+!todoAppTests/*.cpp
+!todoAppTests/*.h
+!todoAppTests/*.vcxproj
+!todoAppTests/*.vcxproj.user
+!todoAppTests/packages.config
 [Bb]uild[Ll]og.*
 *.trx
+
+# Visual Studio test project build artifacts (keep source files only)
+todoAppTests/x64/
+todoAppTests/**/x64/
+todoAppTests/**/*.pch
+todoAppTests/**/*.obj
+todoAppTests/**/*.exe.recipe
+todoAppTests/**/*.log
+todoAppTests/**/*.pdb
+todoAppTests/**/*.tlog
+todoAppTests/**/*.vcxproj.CopyComplete
+todoAppTests/**/*.vcxproj.FileListAbsolute.txt
+todoAppTests/**/*.lastbuildstate
 
 # NUnit
 *.VisualState.xml

@@ -1,4 +1,4 @@
-# 🗂️ todo‑app — Interview Edition
+# 🗂️ todo‑app
 
 > **One‑liner:** An extensible C++20 console to‑do manager that shows off object‑oriented design, modern concurrency (`std::jthread`), exception‑safe persistence, and a fully unit‑tested codebase.
 
@@ -17,8 +17,7 @@
 9. [Persistence Layer](#persistence-layer)
 10. [Automated Tests](#automated-tests)
 11. [3‑Minute Demo Script](#3-minute-demo-script)
-12. [Common Interview Questions → Answers](#common-interview-qa)
-13. [Stretch Ideas / Future Work](#stretch-ideas--future-work)
+12. [Stretch Ideas / Future Work](#stretch-ideas--future-work)
 
 ---
 
